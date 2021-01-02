@@ -2,7 +2,7 @@
 
 Made by **utku#9999**
 
-Converted to vRP by **ToXicGlo#8091**
+Converted to vRP by **ToXicGlo#6190**
 
 Made for vRP 0.5 and Dunko vRP
 
